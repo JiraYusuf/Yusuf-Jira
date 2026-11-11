@@ -1,32 +1,43 @@
-# Yusuf-Jira
-Engineering & Computational Projects:
 
-I am an Electrical and Electronics Engineer interested in computational engineering, programming, AI training and technical problem-solving.
+<h1>Engineering &amp; Computational Projects</h1>
 
-My work focuses on using Python and C++ to solve engineering problems, develop computational models, automate processes and analyse technical data.
+<p>
+  I am an Electrical and Electronics Engineer interested in computational engineering,
+  programming, AI training, and technical problem-solving.
+</p>
 
-Programming Languages:
+<p>
+  My work focuses on using Python and C++ to solve engineering problems,
+  develop computational models, automate processes, and analyse technical data.
+</p>
 
-Python
+<h3>Programming Languages</h3>
+<ul>
+  <li>Python</li>
+  <li>C++</li>
+</ul>
 
-C++
+<h3>Areas of Interest</h3>
+<ul>
+  <li>Engineering Computation</li>
+  <li>Electrical Systems Analysis</li>
+  <li>Numerical Methods</li>
+  <li>Control Systems and Modelling</li>
+  <li>Renewable Energy Systems</li>
+  <li>Data Processing and Analysis</li>
+  <li>AI Model Evaluation</li>
+</ul>
 
-Areas of Interest
+<h3>Projects</h3>
+<p>
+  Explore my repositories below for selected programming projects,
+  technical implementations, simulations, and engineering problem-solving exercises.
+</p>
 
-Engineering Computation
-
-Electrical Systems Analysis
-
-Numerical Methods
-
-Control Systems and Modelling
-
-Renewable Energy Systems
-
-Data Processing and Analysis
-
-AI Model Evaluation
-
-Projects:
-
-Explore my repositories below for selected programming projects, technical implementations, simulations and engineering problem-solving exercises.
+<h3>Contact</h3>
+<p>
+  LinkedIn:
+  <a href="https://www.linkedin.com/in/yusuf-jira-b34760232" target="_blank">
+    Connect with me on LinkedIn
+  </a>
+</p>
